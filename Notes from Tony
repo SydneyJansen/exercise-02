@@ -1,0 +1,4 @@
+Hi Sydney - all works now and I was able to push to both your repos (2b-try-2). a question, though... did you intend to set up an "renv" configuration for the second repo? that's something I didn't go into detail on how or why to do, so I'm guessing that might have been inadvertent. renvs do allow for greater reproducibility in that they allow for distibution of particular versions of packages along with other elements of the project, but they can be tricky to manage. If you've mastered that, GREAT!
+- Anthony Di Fiore
+Feb 2 at 11:10am
+Yeah, I didn't mean to do that. I got confused about adding the PAT token to the .Renviron file and saw renv and added it.
